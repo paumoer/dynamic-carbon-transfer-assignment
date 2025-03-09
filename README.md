@@ -1,5 +1,6 @@
 # A dynamic model for carbon transfers in Earth’s system - Assignment
 Modeling carbon transfers in the Earth system using a six-pool carbon model.
+This is simply an university assignment, might contain mistakes, please check critically before replicating. 
 
 This assignment focuses on modeling carbon transfers in the Earth system using a six-pool carbon model. Tasks include implementing carbon emission functions, solving differential equations to simulate carbon fluxes, integrating anthropogenic emissions, evaluating intervention scenarios, and analyzing required emission reductions for climate goals. Results are documented in a short report.
 # List of Tasks
